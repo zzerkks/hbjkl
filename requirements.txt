@@ -1,5 +1,3 @@
-git+https://github.com/dolfies/discord.py-self.git
+discord.py-self==2.1.0b5174
 aiohttp[speedups]
-discord.py-self
 flask
-discord-py
