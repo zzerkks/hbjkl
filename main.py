@@ -30,7 +30,7 @@ keep_alive()
 GUILD_IDS = [1188506977408667718]
 
 WORK_WAIT = 10  # Minutes between work command
-COLLECT_WAIT = 49  # Minutes between collect command
+COLLECT_WAIT = 55  # Minutes between collect command
 
 
 @tasks.loop(minutes=WORK_WAIT)
